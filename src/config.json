@@ -1,0 +1,27 @@
+{
+    "JWT": {
+        "expire_in": "60000s",
+        "secret": "pYxse7-dajcaz-jipmub"
+    },
+    "MONGO": {
+        "host": "test.ysyqp5u.mongodb.net",
+        "username": "root",
+        "password": "KCnKqVWx9a0FzFYW",
+        "database": "test"
+    },
+    "ADMIN": {
+        "username": "admin",
+        "password": "password"
+    },
+    "CDN": {
+      "region": "fra1",
+      "endpoint": "https://fra1.digitaloceanspaces.com",
+      "access_key": "DO00VXGD3UTMNEKV6PA2",
+      "secret": "EgU3tk/jNVC5hVrmV7ZKSaCKPkxc+Y+gTl+fnFRu2tY",
+      "bucket": "estates"
+    },
+    "BOT": {
+      "bot_api_token": "6781919149:AAGawKljonWqjpCEfiNoPf1FZrmibR0PEKE",
+      "bot_cht_id": "269614434"
+    }
+}
